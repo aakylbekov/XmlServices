@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Admin", "Admin\Admin.csproj", "{DD5562A6-F404-4441-9684-AC5B4FF12E0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminLib", "AdminLib\AdminLib.csproj", "{C3993189-ABB0-435E-BF4C-E7D8BCC3F30E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD5562A6-F404-4441-9684-AC5B4FF12E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD5562A6-F404-4441-9684-AC5B4FF12E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD5562A6-F404-4441-9684-AC5B4FF12E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD5562A6-F404-4441-9684-AC5B4FF12E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3993189-ABB0-435E-BF4C-E7D8BCC3F30E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3993189-ABB0-435E-BF4C-E7D8BCC3F30E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3993189-ABB0-435E-BF4C-E7D8BCC3F30E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3993189-ABB0-435E-BF4C-E7D8BCC3F30E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
