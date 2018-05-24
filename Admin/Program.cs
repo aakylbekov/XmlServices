@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AdminLib;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,9 @@ namespace Admin
     {
         static void Main(string[] args)
         {
+            ServiceProvider dd = new ServiceProvider();
+            //dd.Addprovider();
+            dd.EditProvider();
         }
     }
 }
